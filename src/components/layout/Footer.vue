@@ -14,7 +14,7 @@ export default {
 
 <style scoped>
   .Footer {
-    background: #333;
+    background:#0047b3;;
     color: #fff;
     text-align: center;
     padding: 10px;

@@ -54,13 +54,13 @@ export default {
   .btn {
     display: inline-block;
     border: none;
-    background: #555;
+     background: rgb(255, 0, 0);
     color: #fff;
     padding: 7px 20px;
     cursor: pointer;
   }
 
   .btn:hover {
-    background: #666;
+   background: rgb(48, 155, 21);
   }
 </style>
