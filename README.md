@@ -1,10 +1,10 @@
-# Vue Crash Course (TodoList)
+# (TodoList)
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
+https://admiring-ardinghelli-5c4d85.netlify.com
 
 ## Quick Start
 
-```bash
+
 # Install dependencies
 npm install
 
@@ -13,4 +13,3 @@ npm run serve
 
 # Build for production
 npm run build
-```
